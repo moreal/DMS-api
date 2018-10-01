@@ -5,7 +5,7 @@ setup(
     description='An DSM-DMS BackEnd Python Wrapper',
     version='0.0.1',
     url='https://github.com/moreal/dms-api',
-    author='Moreal'
+    author='Moreal',
     author_email='dev.moreal@gmail.com',
     license='MIT',
     install_requires=[
